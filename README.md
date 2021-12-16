@@ -3,6 +3,7 @@
 ## Table of contents:
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Screenshot](#screenshot)
 * [Launch](#launch)
 * [Sources](#sources)
 
@@ -18,6 +19,9 @@
 * Markdown 
 * Visual Studio Code 1.63.0
 * Node.js: 14.16.0
+
+## Screenshot:
+![Program Output](./ScreenshotTIH.png "Program output")
 	
 ## Launch:
 Click on [the link](https://20dom21.github.io/Mixed-messages/).
