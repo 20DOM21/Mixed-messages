@@ -20,7 +20,7 @@
 * Node.js: 14.16.0
 	
 ## Launch:
-Click on [the link](https://20DOM21.github.io/Mixed-messages/).
+Click on [the link](https://20dom21.github.io/Mixed-messages/).
 
 ## Sources:
 https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
